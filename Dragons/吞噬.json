@@ -1,0 +1,8 @@
+{
+	"bookTitle": "吞噬星空",
+	"bookFile": ".\\Dragons\\Books\\tunshixingkong_wochixihongshi.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8092,
+	"bookCode": "gb18030"
+}
+

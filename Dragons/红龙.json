@@ -1,0 +1,6 @@
+{
+	"bookTitle": "红龙皇帝",
+	"bookFile": "./Dragons/Books/honglonghuangdi_xiaoxiaosheng.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8082
+}

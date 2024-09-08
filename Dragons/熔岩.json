@@ -1,0 +1,6 @@
+{
+	"bookTitle": "我变成了恶龙",
+	"bookFile": "./Dragons/Books/wobianchengliaoelong_qingsongchangqing.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8084
+}

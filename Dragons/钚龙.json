@@ -1,0 +1,6 @@
+{
+	"bookTitle": "钚龙领域",
+	"bookFile": "./Dragons/Books/bulonglingyu.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8081
+}

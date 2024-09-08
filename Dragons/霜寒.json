@@ -1,0 +1,7 @@
+{
+	"bookTitle": "霜寒之翼",
+	"bookFile": "./Dragons/Books/shuanghanzhiyi_xianyugongjue.txt",
+	"partRe": "第.*?章 .*?\n",
+	"bookCode": "gb18030",
+	"serverPort": 8085
+}

@@ -1,0 +1,8 @@
+{
+	"bookTitle": "奥术神座",
+	"bookFile": ".\\Dragons\\Books\\aoshushenzuo_aiqianshuidewuzei.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8093,
+	"bookCode": "gb18030"
+}
+

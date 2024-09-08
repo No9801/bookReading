@@ -1,0 +1,7 @@
+{
+    "bookTitle": "诡秘之主",
+    "bookFile": ".\\Dragons\\Books\\guimizhizhu_aiqianshuidewuzei.txt",
+    "partRe": "第.*?章 .*?\n",
+    "serverPort": 8094,
+	"bookCode": "gb18030"
+}

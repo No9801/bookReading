@@ -1,0 +1,6 @@
+{
+	"bookTitle": "龙族",
+	"bookFile": "./Dragons/Books/longzuquantaogongbace_jiangnan.txt",
+	"partRe": "第.*?[章幕][ \n].*?\n",
+	"serverPort": 8090
+}

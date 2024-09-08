@@ -1,0 +1,6 @@
+{
+	"bookTitle": "全职法师",
+	"bookFile": "./Dragons/Books/quanzhifashi.txt",
+	"partRe": "第.*?章? .*?\n",
+	"serverPort": 8088
+}

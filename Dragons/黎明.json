@@ -1,0 +1,6 @@
+{
+    "bookTitle": "黎明之剑",
+    "bookFile": ".\\Dragons\\Books\\limingzhijian_yuantong.txt",
+    "partRe": "第.+?章.*?\n",
+    "serverPort": 8098
+}

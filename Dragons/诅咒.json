@@ -1,0 +1,6 @@
+{
+	"bookTitle": "诅咒之龙",
+	"bookFile": "./Dragons/Books/zuzhouzhilong_luguodechuanyuezhe.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8087
+}

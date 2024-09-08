@@ -1,0 +1,6 @@
+{
+	"bookTitle": "夜的命名术",
+	"bookFile": "./Dragons/Books/yedemingmingshu.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8086
+}

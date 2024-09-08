@@ -1,0 +1,6 @@
+{
+    "bookTitle": "异世界征服指南",
+    "bookFile": ".\\Dragons\\Books\\yishijiezhengfushouce_xinshoudiaoyuren.txt",
+    "partRe": "第.*?章 .*?\n",
+    "serverPort": 8097
+}

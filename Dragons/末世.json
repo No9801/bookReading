@@ -1,0 +1,7 @@
+{
+	"bookTitle": "我在末世有套房",
+	"bookFile": ".\\Dragons\\Books\\wozaimoshiyoutaofang_chenxingLL.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8091,
+	"bookCode": "gb18030"
+}

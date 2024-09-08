@@ -1,0 +1,6 @@
+{
+	"bookTitle": "捡到一颗星球",
+	"bookFile": "./Dragons/Books/捡到一个星球.txt",
+	"partRe": "第.*?章 .*?\n",
+	"serverPort": 8083
+}

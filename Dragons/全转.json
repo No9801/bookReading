@@ -1,0 +1,6 @@
+{
+	"bookTitle": "全民转职：死灵法师！我即是天灾",
+	"bookFile": "./Dragons/Books/quanmingzhuanzhi.txt",
+	"partRe": "第.*?章? .*?\n",
+	"serverPort": 8089
+}

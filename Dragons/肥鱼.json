@@ -1,0 +1,6 @@
+{
+    "bookTitle": "走进不科学",
+    "bookFile": ".\\Dragons\\Books\\zoujinbukexue.txt",
+    "partRe": "===.*?===",
+    "serverPort": 8096
+}

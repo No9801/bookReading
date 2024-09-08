@@ -1,0 +1,7 @@
+{
+	"bookTitle": "超神机械师",
+	"bookFile": "./Dragons/Books/chaoshenjixieshi_qipeijia.txt",
+	"partRe": "第.*?章 .*?\n",
+	"bookCode": "gb18030",
+	"serverPort": 8080
+}

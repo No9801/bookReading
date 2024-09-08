@@ -1,0 +1,6 @@
+{
+    "bookTitle": "黑龙法典",
+    "bookFile": ".\\Dragons\\Books\\heilongfadian_huansheng.txt",
+    "partRe": "第.*?章 .*?\n",
+    "serverPort": 8095
+}
